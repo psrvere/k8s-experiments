@@ -1,0 +1,1 @@
+I have written a few code snippets to understand various parts of kubernetes.
